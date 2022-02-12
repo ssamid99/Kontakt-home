@@ -1,0 +1,5 @@
+C:\Users\12345\Desktop\Visual Code\ConsoleApp.Smartphones\ConsoleApp.Smartphones.App\obj\Debug\net5.0\ConsoleApp.Smartphones.App.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Visual Code\ConsoleApp.Smartphones\ConsoleApp.Smartphones.App\obj\Debug\net5.0\ConsoleApp.Smartphones.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Visual Code\ConsoleApp.Smartphones\ConsoleApp.Smartphones.App\obj\Debug\net5.0\ConsoleApp.Smartphones.App.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Visual Code\ConsoleApp.Smartphones\ConsoleApp.Smartphones.App\obj\Debug\net5.0\ConsoleApp.Smartphones.App.AssemblyInfo.cs
+C:\Users\12345\Desktop\Visual Code\ConsoleApp.Smartphones\ConsoleApp.Smartphones.App\obj\Debug\net5.0\ConsoleApp.Smartphones.App.csproj.CoreCompileInputs.cache
