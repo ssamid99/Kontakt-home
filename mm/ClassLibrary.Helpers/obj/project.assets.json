@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samidms\\source\\repos\\ConsoleApp2\\ClassLibrary.Helpers\\ClassLibrary.Helpers.csproj",
+      "projectUniqueName": "C:\\Users\\samidms\\Desktop\\Kontakt-home\\mm\\ClassLibrary.Helpers\\ClassLibrary.Helpers.csproj",
       "projectName": "ClassLibrary.Helpers",
-      "projectPath": "C:\\Users\\samidms\\source\\repos\\ConsoleApp2\\ClassLibrary.Helpers\\ClassLibrary.Helpers.csproj",
+      "projectPath": "C:\\Users\\samidms\\Desktop\\Kontakt-home\\mm\\ClassLibrary.Helpers\\ClassLibrary.Helpers.csproj",
       "packagesPath": "C:\\Users\\samidms\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samidms\\source\\repos\\ConsoleApp2\\ClassLibrary.Helpers\\obj\\",
+      "outputPath": "C:\\Users\\samidms\\Desktop\\Kontakt-home\\mm\\ClassLibrary.Helpers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samidms\\AppData\\Roaming\\NuGet\\NuGet.Config",

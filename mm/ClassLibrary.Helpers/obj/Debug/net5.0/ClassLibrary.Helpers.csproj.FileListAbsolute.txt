@@ -9,3 +9,15 @@ C:\Users\samidms\source\repos\ConsoleApp2\ClassLibrary.Helpers\obj\Debug\net5.0\
 C:\Users\samidms\source\repos\ConsoleApp2\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.dll
 C:\Users\samidms\source\repos\ConsoleApp2\ClassLibrary.Helpers\obj\Debug\net5.0\ref\ClassLibrary.Helpers.dll
 C:\Users\samidms\source\repos\ConsoleApp2\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.pdb
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\bin\Debug\net5.0\ClassLibrary.Helpers.deps.json
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\bin\Debug\net5.0\ClassLibrary.Helpers.dll
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\bin\Debug\net5.0\ref\ClassLibrary.Helpers.dll
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\bin\Debug\net5.0\ClassLibrary.Helpers.pdb
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.csproj.AssemblyReference.cache
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.AssemblyInfoInputs.cache
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.AssemblyInfo.cs
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.dll
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\obj\Debug\net5.0\ref\ClassLibrary.Helpers.dll
+C:\Users\samidms\Desktop\Kontakt-home\mm\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.pdb
