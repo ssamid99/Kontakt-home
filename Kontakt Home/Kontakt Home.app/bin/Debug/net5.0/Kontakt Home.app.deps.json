@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kontakt Home.app/1.0.0": {
+        "dependencies": {
+          "ClassLibrary.Tools": "1.0.0"
+        },
+        "runtime": {
+          "Kontakt Home.app.dll": {}
+        }
+      },
+      "ClassLibrary.Tools/1.0.0": {
+        "runtime": {
+          "ClassLibrary.Tools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kontakt Home.app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary.Tools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

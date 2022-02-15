@@ -1,0 +1,38 @@
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.AssemblyInfo.cs
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.exe
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.deps.json
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.runtimeconfig.json
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.runtimeconfig.dev.json
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.dll
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\ref\Kontakt Home.app.dll
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.pdb
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\ClassLibrary.Tools.dll
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\ClassLibrary.Tools.pdb
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.csproj.CopyComplete
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.dll
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\ref\Kontakt Home.app.dll
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.pdb
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.genruntimeconfig.cache
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.exe
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.deps.json
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.runtimeconfig.json
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.runtimeconfig.dev.json
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.dll
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\ref\Kontakt Home.app.dll
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\Kontakt Home.app.pdb
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\ClassLibrary.Tools.dll
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\bin\Debug\net5.0\ClassLibrary.Tools.pdb
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.AssemblyInfo.cs
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.csproj.CopyComplete
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.dll
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\ref\Kontakt Home.app.dll
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.pdb
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\Kontakt Home.app\obj\Debug\net5.0\Kontakt Home.app.genruntimeconfig.cache

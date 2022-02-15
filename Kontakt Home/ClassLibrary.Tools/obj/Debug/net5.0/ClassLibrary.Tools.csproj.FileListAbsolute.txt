@@ -1,0 +1,24 @@
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\bin\Debug\net5.0\ClassLibrary.Tools.deps.json
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\bin\Debug\net5.0\ClassLibrary.Tools.dll
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\bin\Debug\net5.0\ref\ClassLibrary.Tools.dll
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\bin\Debug\net5.0\ClassLibrary.Tools.pdb
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.AssemblyInfo.cs
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.dll
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ref\ClassLibrary.Tools.dll
+C:\Users\12345\Desktop\Visual Code\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.pdb
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\bin\Debug\net5.0\ClassLibrary.Tools.deps.json
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\bin\Debug\net5.0\ClassLibrary.Tools.dll
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\bin\Debug\net5.0\ref\ClassLibrary.Tools.dll
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\bin\Debug\net5.0\ClassLibrary.Tools.pdb
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.AssemblyInfo.cs
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.dll
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ref\ClassLibrary.Tools.dll
+C:\Users\12345\Desktop\Kontakt-home\Kontakt Home\ClassLibrary.Tools\obj\Debug\net5.0\ClassLibrary.Tools.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b8a9c62-d16f-48d9-af10-7727684cade5": {
+      "ProjectGuid": "9b8a9c62-d16f-48d9-af10-7727684cade5",
+      "DisplayName": "Kontakt Home.app",
+      "ColorIndex": 0
+    },
+    "8965c30e-1016-4328-af05-30a9001e6685": {
+      "ProjectGuid": "8965c30e-1016-4328-af05-30a9001e6685",
+      "DisplayName": "ClassLibrary.Tools",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
